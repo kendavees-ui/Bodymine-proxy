@@ -1,0 +1,11 @@
+{
+  "name": "bodymine-private-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
